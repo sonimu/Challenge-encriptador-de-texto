@@ -14,5 +14,5 @@ este programa contiene 4 funciones pedidas por Alura:
 
 4) no recibir tildes ni acentos ![image](https://github.com/user-attachments/assets/9ed023ce-51de-4f2f-9350-63f6be137592)
 
-este programa fue hecho con el fin de entender los conceptos básicos de HTML,CSS y JavaScript 
+
 
