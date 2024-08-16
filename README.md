@@ -1,6 +1,6 @@
 # Challenge-encriptador-de-texto
   
-se crea un encriptador de texto con modificaciones visuales en css :
+se crea un encriptador de texto que encripta y desencripta el texto dado por unos parametros establecidos por Alura :
 ![Captura de pantalla 2024-08-16 182510](https://github.com/user-attachments/assets/b6666279-94d1-4abc-ab83-0abfa218b582)
 
 
