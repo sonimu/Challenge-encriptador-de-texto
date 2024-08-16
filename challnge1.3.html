@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge alura 1</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>   
+    <div class="container">
+        <div class="left">
+            <img id="logo" src="c:\Users\PrimerUsuario\Pictures\logo-alura-removebg-preview.png" alt="logo alura">
+            <textarea id="texto" cols="30" rows="10" placeholder="Ingrese el texto aquí" autofocus></textarea>
+            <div>
+                <button class="btn-encrypt" onclick="encriptar()">Encriptar</button>
+                <button class="btn-decrypt" onclick="desencriptar()">Desencriptar</button>
+            </div>
+        </div>
+
+        <div class="right">
+            <div class="message">
+                <img id="muñeco" src="c:\Users\PrimerUsuario\Pictures\matacho.png" alt="Muñeco">
+                <h2 id="titulo-mensaje">Ningún mensaje fue encontrado</h2>
+                <p id="parrafo">Ingresa el texto que deseas encriptar o desencriptar</p>
+            </div>
+            <button name="copiar" class="copiar" onclick="copiar()">Copiar</button>
+        </div>
+    </div>
+<footer>
+    <p class="copyright">Desarrollado por Sonia Muñoz</p>
+</footer>
+
+</body>
+<script src="funciones.js"></script>
+</html>
